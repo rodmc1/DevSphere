@@ -14,7 +14,7 @@ const isActive = path => {
         <div class="flex flex-1 items-center justify-center md:items-stretch md:justify-start">
           <!-- Logo -->
           <RouterLink to="/" class="flex flex-shrink-0 items-center mr-4">
-            <img class="h-10 w-auto bg-white rounded-2xl" :src="logo" alt="Vue Jobs" />
+            <img class="h-10 w-auto bg-white rounded-2xl" :src="logo" alt="Dev Sphere" />
             <span class="hidden md:block text-white text-2xl font-bold ml-2">DevSphere</span>
           </RouterLink>
           <div class="md:ml-auto">
